@@ -22,7 +22,7 @@ title: Tora 2338
 email: tora2338@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I am a very slappy boy
-baseurl: "/tora2338" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "tora2338.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
